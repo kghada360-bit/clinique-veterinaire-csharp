@@ -94,7 +94,7 @@ Proprietaires 1 ── n Animaux 1 ── n RendezVous 1 ── n Consultations 
 
 1. Cloner le dépôt :
    ```bash
-   git clone https://github.com/ghada-kaabi/clinique-veterinaire-csharp.git
+   git clone https://github.com/kghada360-bit/clinique-veterinaire-csharp.git
    ```
    ou télécharger le ZIP depuis le bouton **Code**.
 2. Ouvrir le fichier `.sln` avec Visual Studio.
